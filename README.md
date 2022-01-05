@@ -1,2 +1,2 @@
-# Machine-Learning-for-Computer-Vision
-CS492(A) course from KAIST
+# Machine Learning for Computer Vision
+CS492(A) coursework and lab materials from Fall 2021, KAIST.
