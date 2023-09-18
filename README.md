@@ -1,35 +1,27 @@
-# CS492: Machine Learning for Computer Vision - KAIST (Fall 2021)
+# CS492: Machine Learning for Computer Vision
 
-Welcome to the GitHub repository for the KAIST CS492: Machine Learning for Computer Vision course materials. This repository contains all the necessary materials, including lab instructions, coursework files, and additional resources to help students excel in the course.
+Welcome to the "Machine Learning for Computer Vision" repository, your go-to hub for materials and resources for the KAIST CS492 course. Here, we offer a curated collection of coursework files, lab materials, and the course textbook, tailored to support your learning journey in exploring machine learning within the field of computer vision.
 
-## Topics
+## 📚 Repository Structure
 
-- Machine Learning
-- Computer Vision
-- Deep Learning
+- **Coursework**: In this directory, discover the array of coursework files elucidating the assignments and projects undertaken by Team 19 during the Fall 2021 semester. 
+    - **CW1_Team_19.pdf**: (Add a brief description of this document here)
+    - **CW2_Team_19.pdf**: (Add a brief description of this document here)
+  
+- **Lab Materials**: Explore a compilation of indispensable materials for Lab 2 and forthcoming labs, offering a step-by-step guide for each lab session.
+    - **Lab2**: (Add a brief description of this lab here)
+    
+- **Textbook**: The primary textbook for the course, facilitating a deep understanding of the pivotal concepts explored during the lectures.
+    - **Richard O. Duda, Peter E. Hart, David G. Stork**: Dive deep into the world of pattern classification through this essential text, ideal for every course participant.
 
-## Course Materials
+- **Fall21 Materials**: A reservoir of all materials utilized during the Fall 2021 semester, aiming to be a priceless resource for both current and prospective students.
 
-### Textbook
+## 🛠️ Installation and Usage
 
-- "Pattern Classification" by Richard O. Duda, Peter E. Hart, and David G. Stork. (Please acquire the textbook through appropriate channels.)
+To make full use of the rich resources available in this repository, follow the step-by-step guide below:
 
-### Coursework
+1. Clone the repository onto your local system using the command below:
 
-Here you will find the coursework materials and assignments:
-
-- **Lab 2** *(details to be added)*
-- **Coursework 1** - [CW1_Team_19.pdf](link-to-file) *(add a description here)*
-- **Coursework 2** - [CW2_Team_19.pdf](link-to-file) *(add a description here)*
-
-### Labs
-
-Lab instructions and other materials will be updated as we progress in the course. Stay tuned!
-
-### Updates
-
-- **Fall 2021** - Course materials for Fall 2021 have been added. Check the repository for the latest updates.
-
-## Contributing
-
-Feel free to contribute to the repository by creating a pull request or opening an issue for discussion. Let's work together to make this repository a rich resource for all the students.
+```sh
+git clone https://github.com/your-github-username/CS492-Machine-Learning-for-Computer-Vision.git
+```
